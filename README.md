@@ -16,7 +16,7 @@ dev_dependencies:
   cidroy_analysis: ^0.0.1
 ```
 
-Then, add an include in `analysis_options.yaml`:
+Then, add an include in `analysis_options.yaml`: 
 
 ```yaml
 include: package:cidroy_analysis/analysis_options.yaml
