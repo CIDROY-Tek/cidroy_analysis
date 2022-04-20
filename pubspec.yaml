@@ -1,7 +1,7 @@
 name: cidroy_analysis
 description: lint rules followed by cidroy technologies
 version: 0.0.1
-repository: https://github.com/CIDROY-Tek/sunpharma-soms
+repository: https://github.com/CIDROY-Tek/cidroy_analysis
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
