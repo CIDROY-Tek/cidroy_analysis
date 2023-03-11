@@ -1,3 +1,4 @@
+/// Cidroy analysis is for CIDROY companies internal use.
 library cidroy_analysis;
 
 /// A Calculator.
