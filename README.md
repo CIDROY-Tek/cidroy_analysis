@@ -9,11 +9,11 @@ To use the lints, add a dependency in your `pubspec.yaml`:
 ```yaml
 # If you use `package:cidroy_analysis/cidroy_analysis.dart`, add a normal dependency.
 dependencies:
-  cidroy_analysis: ^0.0.1
+  cidroy_analysis: ^0.0.3
 
 # Or, if you just want `analysis_options.yaml`, it can be a dev dependency.
 dev_dependencies:
-  cidroy_analysis: ^0.0.1
+  cidroy_analysis: ^0.0.3
 ```
 
 Then, add an include in `analysis_options.yaml`: 
